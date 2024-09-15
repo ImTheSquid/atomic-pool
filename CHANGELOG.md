@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 1.0.2 - 2024-09-11
 
-- Replace depreciated `atomic-polyfill` crate with `portable-atomic`.
+- Replace deprecated `atomic-polyfill` crate with `portable-atomic`.
 
 ## 1.0.1 - 2022-12-11
 
