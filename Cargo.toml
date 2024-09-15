@@ -10,6 +10,7 @@ license = "MIT OR Apache-2.0"
 categories = ["embedded", "no-std", "concurrency", "memory-management"]
 
 [features]
+default = ["portable-atomic-critical-section"]
 portable-atomic-critical-section = ["portable-atomic/critical-section"]
 portable-atomic-unsafe-assume-single-core = [
     "portable-atomic/unsafe-assume-single-core",
